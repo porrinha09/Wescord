@@ -1,0 +1,29 @@
+/* Exemplo de estilo CSS para um tema do Discord */
+
+/* Cor de fundo principal */
+body {
+    background-color: #000000 !important;
+}
+
+/* Cor do texto principal */
+body, .markup, .comment, .headerText-3Uvj1Z {
+    color: #ffffff !important;
+}
+
+/* Cor dos botões */
+button, .button, .lookFilled-1Gx00P, .lookFilled-2tM9-0, .button-2t3of8, .colorBrand-3pXr91 {
+    background-color: #7289da !important;
+    color: #ffffff !important;
+}
+
+/* Cor dos links */
+a {
+    color: #7289da !important;
+}
+
+/* Cor de destaque para elementos selecionados */
+.theme-dark .selected-aXhQR6, .theme-dark .selected-2sg4ez {
+    background-color: #7289da !important;
+}
+
+/* Altere ou adicione estilos conforme necessário para personalizar o tema */
