@@ -1,0 +1,2 @@
+# Wescord
+Discord mod client
